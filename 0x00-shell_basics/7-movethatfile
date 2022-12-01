@@ -1,2 +1,5 @@
 #!/bin/bash
 mv betty /tmp/my_first_directory
+[master 5fb20fc] My 7th commit
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/7-movethatfile
